@@ -45,4 +45,5 @@ Source: https://www.csis.org/analysis/csis-election-cybersecurity-scorecard-outl
 ### election security - mockup two
 ![Image of Mockup Two](/portfolio/Election Security - Mockup 2.png)
 
-     
+### election security - final visualization
+<div class="infogram-embed" data-id="9ca2cdaa-51dc-4baf-b9d0-9cebe9261040" data-type="interactive" data-title="Election Security in 2020"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/9ca2cdaa-51dc-4baf-b9d0-9cebe9261040" style="color:#989898!important;text-decoration:none!important;" target="_blank">Election Security in 2020</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
