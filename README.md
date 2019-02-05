@@ -38,3 +38,11 @@ Source: https://data.oecd.org/gga/general-government-debt.htm
 <img src="https://csis-prod.s3.amazonaws.com/s3fs-public/Tech_ElectionSecurityScorecard_v5_4.%20WEB%202020.jpg?9IpUUqC5rz.wqtHzzuAp3S1B9hGg8mkA">
 
 Source: https://www.csis.org/analysis/csis-election-cybersecurity-scorecard-outlook-2018-2020-and-beyond
+
+### election security - mockup one
+![Image of Mockup One](/portfolio/Election Security - Mockup 1.png)
+
+### election security - mockup two
+![Image of Mockup Two](/portfolio/Election Security - Mockup 2.png)
+
+     
