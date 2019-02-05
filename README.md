@@ -31,3 +31,10 @@ While the two charts display the exact same data, they tell two different storie
 That is where the streamgraph steps in, by showing changes to countries' debt-to-GDP ratio within the context of the OECD at large. The gray pushes irrelevant data to the background, and the highest-to-lowest organization makes it easy to pull out the largest debtors. Additionally, by following the contours of each countries' line, the story of the global economy begins to take shape, including a dip during the 2007-2008 recession, and a debt expansion in the years since. It is, however, important to note the size of the ratio is illustrated in the continuous stream, which can make it hard to discern small changes.
 
 Source: https://data.oecd.org/gga/general-government-debt.htm
+
+
+## asignment three & four
+### election security - original visualization
+<img src="https://csis-prod.s3.amazonaws.com/s3fs-public/Tech_ElectionSecurityScorecard_v5_4.%20WEB%202020.jpg?9IpUUqC5rz.wqtHzzuAp3S1B9hGg8mkA">
+
+Source: https://www.csis.org/analysis/csis-election-cybersecurity-scorecard-outlook-2018-2020-and-beyond
