@@ -10,7 +10,7 @@ Tableau! But more generally, I hope to apply data visualization techniques to th
 # portfolio
 Here's where all of my cool data visualizations will go!
 
-
+## [assignment two](assignment2.md)
 ## assignment three & four
 ### election security - original visualization
 <img src="https://csis-prod.s3.amazonaws.com/s3fs-public/Tech_ElectionSecurityScorecard_v5_4.%20WEB%202020.jpg?9IpUUqC5rz.wqtHzzuAp3S1B9hGg8mkA">
