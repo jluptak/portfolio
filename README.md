@@ -12,3 +12,4 @@ Here's where all of my cool data visualizations will go!
 
 ## [assignment two](assignment2.md)
 ## [assignment three & four](assignment34.md)
+## [final project](finalproject.md)
