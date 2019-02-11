@@ -10,7 +10,7 @@ Tableau! But more generally, I hope to apply data visualization techniques to th
 # portfolio
 Here's where all of my cool data visualizations will go!
 
-## asignment two
+## assignment two
 ### government debt - bar chart
 <iframe src="https://data.oecd.org/chart/5s2B" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5s2B" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
@@ -33,7 +33,7 @@ That is where the streamgraph steps in, by showing changes to countries' debt-to
 Source: https://data.oecd.org/gga/general-government-debt.htm
 
 
-## asignment three & four
+## assignment three & four
 ### election security - original visualization
 <img src="https://csis-prod.s3.amazonaws.com/s3fs-public/Tech_ElectionSecurityScorecard_v5_4.%20WEB%202020.jpg?9IpUUqC5rz.wqtHzzuAp3S1B9hGg8mkA">
 
