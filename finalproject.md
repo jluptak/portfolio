@@ -13,8 +13,8 @@ My final project is a visual exploration of Russia's disinformation campaign dur
 #### the data
 The House Intelligence Committee released known-malicious Facebook ads purchased by the Internet Research Agency (IRA), the Russian troll farm primarily responsible for the country's disinformation campaign. That data includes Ad Text; Ad Landing Page; Ad Targeting Location, Age, Language, Placements and People Who Match; Ad Impressions; Ad Clicks; Ad Spend; and Ad Creation Date. (Note: the information is currently in PDF form, but I am in the process of converting it to a workable .csv file.) 
 
-[House Intelligence Committee - Social Media Advertisements!](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm)
-[Sample Advertisement Data](/portfolio/P(1)0000015.pdf)
+[House Intelligence Committee - Social Media Advertisements](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm)
+![Sample Advertisement Data](/portfolio/P(1)0000015.pdf)
       
 
 ### method & medium
