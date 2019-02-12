@@ -1,12 +1,11 @@
 ### russian disinformation campaign
 
-### outline
+### outline & structure
 My final project is a visual exploration of Russia's disinformation campaign during the 2016 Presidential election. The goal is to inform the audience, and to bring a more personal understanding to the buzzword-y "Russia investigation."
 
-### structure
 **setup:** In 2016, Russia attempted to interfere in the United States presdiential election, using both "soft" techniques like social media disinformation as well as direct attacks on the Democratic National Committee. Their social engineering efforts focused on ideological divides in the United States and aimed to spread distrust.
 
-**conflict:** Disinformation campaigns are scary, not least of all because they target existing biases and, when done well, can be difficult to identify. The Russian attacks were done well, we were all targeted, and 
+**conflict:** Disinformation campaigns are scary, not least of all because they target existing biases and, when done well, can be difficult to identify. The Russian campaigns targeted anyone and everyone, and Russian disinformation campaign was not highly targeted, nor was it expensive, but it was remarkable effective.
 
 **resolution:** Understanding the tactics used in the last attempt at election interference can inform users what to watch for when - not if - it happens again.
 
@@ -21,4 +20,4 @@ The House Intelligence Committee released known-malicious Facebook ads purchased
 ### method & medium
 There are two main stories I want to tell with the data: who was targeted and how it was done (e.g., 18-35 year-olds were sent to Instagram, while 65+ were invited to Facebook groups), and how Russia's tactics changed overtime (e.g., in February during the Iowa caucus when there were multiple candidates, versus in October approaching the general election).
 
-I will use Shorthand to 
+I will use Shorthand to illustrate the who / how / what of the campaign itself, leveraging time-series data, maps and qualitative illustrations. But Shorthand also provides an important opportunity to show the ads themselves, which are included in the data set. I also would like to use benchmark data - such as average Facebook interaction rates, which have been publishd elsewhere - to highlight the efficacy of the malicious advertisements.
