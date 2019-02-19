@@ -25,4 +25,7 @@ I will use Shorthand to illustrate the who / how / what of the campaign itself, 
 ### storyboard
 
 ![Image of Final Storyboard](/portfolio/DataViz_Storyboard.png)
+
+<iframe title="Chart: Evolution of Influence" aria-describedby="Changes in Russian disinformation campaign over time" id="datawrapper-chart-xMrde" src="//datawrapper.dwcdn.net/xMrde/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
       
+
