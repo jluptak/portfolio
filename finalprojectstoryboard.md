@@ -18,3 +18,11 @@ Individual draft sketches are detailed below.
 #### (3) line chart - how tactics changed
 
 <iframe title="Chart: Evolution of Influence" aria-describedby="Changes in Russian disinformation campaign over time" id="datawrapper-chart-xMrde" src="//datawrapper.dwcdn.net/xMrde/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+
+### user research protocol
+
+My target audience is one that is broadly familiar with allegations of Russian influence in the 2016 election, but who do not have specific knowledge of the influence campaigns. This was less difficult to find than I anticipated, which I suspect was due to the volume of information available - that is, people were aware of the "Russia investigation," but not of the difference between the Democratic National Committe email hacking versus the social media campaigns versus the Trump campaign-Russia meetings.
+
+It was also important that I get a bipartisan sampling, so I asked potential interviewees to self-identify their political affiliation in order to capture Republican, Democrat and Indepedent opinions. As a result, I interviewed two men and a woman who are, in no particular order, a special agent in the U.S. government, a retired teacher and financial advisor.
+
