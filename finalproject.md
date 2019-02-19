@@ -21,3 +21,7 @@ The House Intelligence Committee released known-malicious Facebook ads purchased
 There are two main stories I want to tell with the data: who was targeted and how it was done (e.g., 18-35 year-olds were sent to Instagram, while 65+ were invited to Facebook groups), and how Russia's tactics changed overtime (e.g., in February during the Iowa caucus when there were multiple candidates, versus in October approaching the general election).
 
 I will use Shorthand to illustrate the who / how / what of the campaign itself, leveraging time-series data, maps and qualitative illustrations. But Shorthand also provides an important opportunity to show the ads themselves, which are included in the data set. I also would like to use benchmark data - such as average Facebook interaction rates, which have been publishd elsewhere - to highlight the efficacy of the malicious advertisements.
+
+### storyboard
+
+![Image of Final Storyboard](/portfolio/DataVizFinal_Storyboard.png)
