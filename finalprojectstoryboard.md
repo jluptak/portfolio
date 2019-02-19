@@ -40,7 +40,7 @@ The first unanimous feedback was that no one knows what "alluvial" means. It see
 Users again identified the overall purpose of the chart correctly, but were hung up on the specific values. The big question at hand was "Why" - why did the trends look like they did, why did the peaks and valleys occur where they did. This is a more natural place to add in the context I was attempting in the timeline, by denoting external events (e.g. the Mueller investigation) and the impact on the disinformation campaign.
 
 ## storyboard markups
-Following the user interviews, I consolated the comments to plan edits (and in one case, a total redesign) of my data visualizations.
+Following the user interviews, I consolidated the comments to plan edits (and in one case, a total redesign) of my data visualizations.
 
 
 ![Image of Final Storyboard](/portfolio/DataViz_StoryboardMarkup.png)
