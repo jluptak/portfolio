@@ -28,12 +28,19 @@ It was also important that I get a bipartisan sampling, so after asking subjects
 
 ## user responses
 
-I asked each interview subject the same questions about both the individual data visualizations and their impact as whole. 
+I asked each interview subject the [same questions](interviewquestions.md) about both the individual data visualizations and their impact as whole. 
 
 ### timeline feedback
 The timeline had the most mixed reviews, with subjects both appreciating the larger context of the social media campaign but also finding it confusingly presented as a single, discrete occurance. As the creator, I have to agree that this was Bad Design on my part. (Or more diplomatically, I tried to do too much for my user.) By trying to tell the "big picture" and provide context, I ended up obliterating the message I wanted to get through: that the social media influence was a small *_but sustained_* portion of a larger campaign.
 
 ### alluvial diagram feedback
-The first unanimous feedback was that no one knows what "alluvial" means. It seems like a small realization, but it made me appreciate the importance of not using jargon in my interviews. All subjects understood the age breakdowns (18-35 / 36-64 / 65+) and the final destination (facebbok / instagram / reddit) and noted that there was some kind of flow involved, but all three were hung up on the center "bucket." Two believed it to be self-identifications - which is a good educated guess, given the "black," "republicans" and "veterans" label - and one thought it was pages that individuals have liked on social media.
+The first unanimous feedback was that no one knows what "alluvial" means. It seems like a small realization, but it made me appreciate the importance of not using jargon in my interviews. All subjects understood the age breakdowns (18-35 / 36-64 / 65+) and the final destination (facebbok / instagram / reddit) and noted that there was some kind of flow involved, but all three were hung up on the center "bucket." Two believed it to be self-identifications - which is a good educated guess, given the "black," "republicans" and "veterans" labels - and one thought it was pages that individuals have liked on social media (perhaps focusing on "huffpost" and "politics.")
 
 ### line chart feedback
+Users again identified the overall purpose of the chart correctly, but were hung up on the specific values. The big question at hand was "Why" - why did the trends look like they did, why did the peaks and valleys occur where they did. This is a more natural place to add in the context I was attempting in the timeline, by denoting external events (e.g. the Mueller investigation) and the impact on the disinformation campaign.
+
+## storyboard markups
+Following the user interviews, I consolated the comments to plan edits (and in one case, a total redesign) of my data visualizations.
+
+
+![Image of Final Storyboard](/portfolio/DataViz_StoryboardMarkup.png)
