@@ -24,5 +24,9 @@ Individual draft sketches are detailed below.
 
 My target audience is one that is broadly familiar with allegations of Russian influence in the 2016 election, but who do not have specific knowledge of the influence campaigns. This was less difficult to find than I anticipated, which I suspect was due to the volume of information available - that is, people were aware of the "Russia investigation," but not of the difference between the Democratic National Committe email hacking versus the social media campaigns versus the Trump campaign-Russia meetings.
 
-It was also important that I get a bipartisan sampling, so I asked potential interviewees to self-identify their political affiliation in order to capture Republican, Democrat and Indepedent opinions. As a result, I interviewed two men and a woman who are, in no particular order, a special agent in the U.S. government, a retired teacher and financial advisor.
+It was also important that I get a bipartisan sampling, so after asking subjects about their familiarity with Russian election meddling, I asked potential interviewees to self-identify their political affiliation in order to capture Republican, Democrat and Indepedent opinions. As a result, I interviewed two men and a woman who are, in no particular order, a retired teacher, a special agent in the U.S. government, and a financial advisor.
+
+
+
+### user responses
 
