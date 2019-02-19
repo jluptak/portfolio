@@ -2,6 +2,12 @@
 
 ![Image of Final Storyboard](/portfolio/DataViz_Storyboard.png)
 
+The above storyboard outlines the "plot" of my final visualization project, which is a walkthrough of the Russian social media influence campaign during the 2016 U.S. Presidential election. It starts with a high-level overview of the timeline of events, then dives into the specifics of who was targeted by the malicious Facebook ads, and ends with a historical view of how Russia's tactics changed as the election cycle progressed.
+
+Individual draft sketches are detailed below.
+
+### graph sketches
+
 #### (1) timeline - overview of russian influence campaign
 
 ![Image of Influence Timeline](/portfolio/election-influence-timeline.png)
