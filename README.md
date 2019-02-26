@@ -14,3 +14,4 @@ Here's where all of my cool data visualizations will go!
 ## [assignment three & four](assignment34.md)
 ## [final project - part one](finalproject.md)
 ## [final project - part two](finalprojectstoryboard.md)
+## [final project - part three](finalproject3.md)
